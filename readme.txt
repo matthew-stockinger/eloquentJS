@@ -1,2 +1,2 @@
 bookmark:
-https://eloquentjavascript.net/10_modules.html#h_zWTXAU93DC
+https://eloquentjavascript.net/11_async.html#h_sdRy5CTAP/
